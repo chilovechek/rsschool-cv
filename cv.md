@@ -1,5 +1,5 @@
 
-# Alexand Kudria
+# Alexandr Kudria
 
 ## Junior Frontend Developer
 
